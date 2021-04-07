@@ -30,15 +30,3 @@ https://thesportsdb.com/api.php
 ## Team Members
 * Bavly Abdelmasih Fayez
 * Ahmed Mohammed Abdelraouf
-
-## Tasks Table
-
-|        Bavly Abdelmasih Fayez                 |        Ahmed Mohammed Abdelraouf              |
-| --------------------------------------------- | --------------------------------------------- |
-| Create Application Design.                    |  Latest and Upcoming Matches for Leagues      |
-| Create Model Layer.                           | Handling Offline Mode Using **Reachability**. |
-| Create Network Layer Using **Alamofire**.     | Show Teams Details.                           |
-| Show All sports and Leagues.                  |
-| Show Legues Details.                          |
-| Favourite Leagues Feature using **CoreData**. |
-| FaceBook Login.                               |
