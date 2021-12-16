@@ -9,8 +9,9 @@ import Foundation
 import Alamofire
 
 class ApiClient {
-        
-    private var baseUrl = "https://www.thesportsdb.com/api/v1/json/1/"
+//https://www.thesportsdb.com/api/v1/json/2/all_sports.php
+
+    private var baseUrl = "https://www.thesportsdb.com/api/v1/json/2/"
     
     public func getData <T : Decodable>(endPoint : String , of : T.Type , completion : @escaping (Result<Any , Error>)-> Void) {
         AF.request(baseUrl + endPoint)
